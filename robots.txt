@@ -1,0 +1,7 @@
+# robots.txt for https://techbridgesoftware.co.th/
+
+Allow: */platform/amp*
+Allow: /*&platform=amp
+Allow: /*?platform=amp
+
+Sitemap: https://techbridgesoftware.co.th/sitemap.xml
